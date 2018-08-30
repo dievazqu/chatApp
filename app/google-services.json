@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "532707142270",
+    "firebase_url": "https://chatapp-7262d.firebaseio.com",
+    "project_id": "chatapp-7262d",
+    "storage_bucket": "chatapp-7262d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532707142270:android:51c6d963a8222c0b",
+        "android_client_info": {
+          "package_name": "com.example.diego.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532707142270-i19dplc17kv8fvd5ksjvpqk83bd3tq1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByesL482DlXwhVd9tBnxiijjxMVcb_rbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

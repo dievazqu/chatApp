@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/roll_dice_4"
+        android:title="@string/roll_d4"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/roll_dice_6"
+        android:title="@string/roll_d6"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/roll_dice_8"
+        android:title="@string/roll_d8"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/roll_dice_10"
+        android:title="@string/roll_d10"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/roll_dice_12"
+        android:title="@string/roll_d12"
+        app:showAsAction="never"/>
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/roll_dice_20"
+        android:title="@string/roll_d20"
+        app:showAsAction="never"/>
+
+</menu>
